@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hi Humans!
+
+Dlow here, this is my read-me. Swag Swag! 
